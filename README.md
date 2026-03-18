@@ -6,4 +6,4 @@
 ## Статистика активности:
 ![Статистика Сергея](https://github-readme-stats.vercel.app/api?username=serjik1711&show_icons=true&theme=radical)
 ### Мой уровень на Codewars:
-[![Codewars](https://www.codewars.com)](https://www.codewars.com)
+![Codewars](https://www.codewars.com)
