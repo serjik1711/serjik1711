@@ -4,6 +4,6 @@
 -**Практика:** Активно решаю задачи на **Codewars**, чтобы вернуть "форму" и алгоритмическое мышление.
 -**Цель:** Освежить базу и освоить современные инструменты разработки.
 ## Статистика активности:
-![GitHub Stats](https://github-readme-stats.versel.app)
+![Статистика Сергея](https://github-readme-stats.versel.app)
 ### Мой уровень на Codewars:
-![GitHub Stats](https://www.codewars.com)
+![Codewars](https://www.codewars.com)
