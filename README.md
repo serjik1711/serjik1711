@@ -4,6 +4,6 @@
 -**Практика:** Активно решаю задачи на **Codewars**, чтобы вернуть "форму" и алгоритмическое мышление.
 -**Цель:** Освежить базу и освоить современные инструменты разработки.
 ## Статистика активности:
-![Статистика Сергея](https://github-readme-stats.vercel.app/api?username=serjik1711)
+![Статистика Сергея](https://github-readme-stats.vercel.app/api?username=serjik1711&show_icons=true&theme=radical)
 ### Мой уровень на Codewars:
 [![Codewars](https://www.codewars.com)](https://www.codewars.com/users/serjik1711)
