@@ -6,4 +6,4 @@
 ## Статистика активности:
 ![Статистика Сергея](https://github-readme-stats.versel.app)
 ### Мой уровень на Codewars:
-[![Codewars](https://www.codewars.com)](https://www.codewars.com)
+[![Codewars](https://www.codewars.com)](https://www.codewars.com/users/serjik1711)
